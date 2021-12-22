@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Website.
 
-You can use the [editor on GitHub](https://github.com/anonymousvarma/Anonymous-Varma/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can check what i do and which services i provide in here [editor on GitHub](anonymousvarma@gmail.com) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
