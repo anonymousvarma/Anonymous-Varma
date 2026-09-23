@@ -22,6 +22,8 @@ export function SiteHeader() {
   const isActive = (href: string) =>
     href === '/' ? pathname === '/' : pathname.startsWith(href)
 
+  if (pathname === '/') return null
+
   return (
     <header className="sticky top-0 z-50">
       <div className="hidden bg-primary text-primary-foreground md:block">
